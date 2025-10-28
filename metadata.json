@@ -1,0 +1,5 @@
+{
+  "name": "Sophos CTF Certificate Generator",
+  "description": "A web application to generate and print certificates for winners and participants of the Sophos CTF3 event.",
+  "requestFramePermissions": []
+}
